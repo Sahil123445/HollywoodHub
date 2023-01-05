@@ -10,3 +10,4 @@ Pre requisites
 * This application was created on Windows with Java 8.0 and using an older version may cause some errors.
 * This application also uses Maven version 3.8 and using an older version may cause some errors.
 * This application also uses Neo4j version 4.4.5 and using an older version may cause some errors.
+* It also uses postman for API testing and also used a robot framework for stress testing.
