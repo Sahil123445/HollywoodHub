@@ -1,4 +1,4 @@
-# ActorFinder
+# HollywoodHub
 
 About
 
